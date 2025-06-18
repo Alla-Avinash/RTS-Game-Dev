@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: AT_Foam_top
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 930415759, guid: 1f317a3e446705147ad50c597a429c12, type: 3}
+  - {fileID: -131227651, guid: 1f317a3e446705147ad50c597a429c12, type: 3}
+  - {fileID: -1236630990, guid: 1f317a3e446705147ad50c597a429c12, type: 3}
+  - {fileID: 1300767810, guid: 1f317a3e446705147ad50c597a429c12, type: 3}
+  - {fileID: 1888227861, guid: 1f317a3e446705147ad50c597a429c12, type: 3}
+  - {fileID: 699378034, guid: 1f317a3e446705147ad50c597a429c12, type: 3}
+  - {fileID: 1537258261, guid: 1f317a3e446705147ad50c597a429c12, type: 3}
+  - {fileID: 1874339, guid: 1f317a3e446705147ad50c597a429c12, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
