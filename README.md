@@ -73,21 +73,21 @@ This project is just the beginning! With collaboration and group learning, we pl
 
 This is how the project is organized for easy contribution:
 
-unity-graph-game/
-├── Assets/
-│ ├── GAME/ # All game logic and structure
-│ │ ├── Editor/ # Custom editor tools (like LevelGraphEditor.cs)
-│ │ ├── Levels/ # ScriptableObject assets or graph data
-│ │ ├── Scripts/ # Main runtime logic (MapManager.cs, etc.)
-│ │ ├── Prefabs
-│ │ ├── Scenes/ # Game scenes
-│ │ └── Tilemaps/ # Grid/Tilemap assets
-│ ├── Resources/ # Runtime-loadable assets
-│ └── Materials/
-├── ProjectSettings/
-├── Packages/
-├── README.md
-└── .gitignore
+unity-graph-game/  
+├── Assets/  
+│ ├── GAME/ # All game logic and structure  
+│ │ ├── Editor/ # Custom editor tools (like LevelGraphEditor.cs)  
+│ │ ├── Levels/ # ScriptableObject assets or graph data  
+│ │ ├── Scripts/ # Main runtime logic (MapManager.cs, etc.)  
+│ │ ├── Prefabs  
+│ │ ├── Scenes/ # Game scenes  
+│ │ └── Tilemaps/ # Grid/Tilemap assets  
+│ ├── Resources/ # Runtime-loadable assets  
+│ └── Materials/  
+├── ProjectSettings/  
+├── Packages/  
+├── README.md  
+└── .gitignore  
 
 
 ---
